@@ -46,13 +46,13 @@ body{
     padding-left: 10%;
    
 }
-.btn{
+.btn1{
     margin-top: 10px;
     padding: 10px;
     
     
 }
-.btn a{
+.btn1 a{
     color: white;
     text-decoration: none;
 }
@@ -293,10 +293,10 @@ textarea{
 
 }
 @media only screen and (max-width: 768px ){
-    .btn{
+    .btn1{
     
  
-        margin-left: 69px;
+        margin-left: 68px;
         
     }
 }
