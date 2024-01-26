@@ -1,0 +1,294 @@
+body{
+    background-color: #212529;
+    color: white;
+    
+}
+.main{
+    margin: 0;
+    padding: 0;
+}
+
+.brand{
+    color: aliceblue;
+    font-family: Impact;
+    font-size: 25px;
+}
+.header{
+    background-color: black;
+  
+    color: white;
+}
+.header i{
+    color: aliceblue;
+}
+
+.nav-link{
+    background-color: black;
+   
+
+  
+    color: white;
+}
+.nav-link:hover{
+    color: aqua;
+}
+.icon{
+    color: white;
+}
+.about{
+  
+    width: 100%;
+   color: white;
+   padding: 20px;
+}
+.cont{
+    margin-top: 10%;
+    padding-left: 10%;
+   
+}
+.btn{
+    margin-top: 10px;
+    padding: 10px;
+    
+    
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+.about img{
+    margin-left: 30%;
+}
+.service{
+    padding: 20px;
+    margin-left: 20px;
+}
+.web{
+   
+    margin: 10PX;
+    padding: 10px;
+   
+    
+    
+
+}
+.profile{
+    background-color:rgb(15, 14, 14);
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+    /* border-radius: 28% 27% 26% 23% / 33% 31% 24% 23% ; */
+   
+    
+    
+    
+    
+    
+}
+.protfolio img{
+    border-radius: 20px;
+    width: 70%;
+    margin-top: 40px;
+}
+.protfolio img:hover{
+   
+    transform: translateY(-20px);
+   
+}
+.ddd{
+    width: 30%;
+    background-color: black;
+    margin-left: 2%  ;
+}
+.service i {
+  
+    color: white;
+    font-size: 50px;
+    padding: 20px;
+
+}
+
+
+
+input{
+    margin: 5px;
+    padding: 10px;
+    width: 70%;
+    margin-left: 50%;
+  
+    background-color:black;
+}
+textarea{
+   
+    resize: none;
+    background-color:black;
+    margin: 5px;
+    width: 70%;
+    height: auto;
+    margin-left: 50%;
+    
+}
+.send{
+    
+  
+    width: 70%;
+    text-align: center;
+    margin-left: 50%;
+}
+span{
+    color: cyan;
+}
+.me{
+    padding: 20px;
+}
+.social  
+{
+
+     
+ padding: 40px;
+}
+.social a{
+    font-size: 25px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+   
+
+}
+.social i:hover{
+   
+    transform: translateY(-10px);
+   
+}
+.social span{
+    font-size: 15px;
+    padding: 10px;
+    font-style: normal;
+   
+    
+
+}
+
+/* .welcome{
+   
+    background-color: #212529;
+    
+    border-radius: 20px 20px 10px 10px;
+    border: 2px solid white;
+    height: 30%;
+    width: 20%;
+    position: absolute;
+  left: 50%;
+    
+    text-align: center;
+    top: -200px;
+}
+.welcome p{
+    
+    color:aliceblue;
+    
+   
+    margin-top: 10%;
+   
+    
+} */
+
+
+
+
+@media only screen and (max-width: 576px){
+ 
+.about img{
+
+    
+    margin-right: 30px;
+}
+  .ddd{
+width: 100%;
+  margin-top: 20px;
+ 
+ 
+  
+ 
+ 
+
+  
+   
+  
+}
+.web{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-right: 20px;
+  
+  
+    
+}
+.service h1{
+   
+    margin-right: 26px;
+}
+.btn{
+    
+ 
+    margin-left: 30px;
+    
+}
+
+.contact{
+   
+   padding-left: 0px;
+   padding: 20px;
+   
+    
+}
+
+input{
+    margin: 5px;
+    width: 100%;
+    
+    
+  
+    
+   
+  
+   
+}
+textarea{
+   
+   
+    margin: 5px;
+    width: 100%;
+   
+    
+}
+.send{
+    
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+
+.protfolio img{
+   
+   margin-left: 30px;
+}
+.about img{
+    margin-left: 0%;
+}
+.social span{
+    font-size: 8px;
+    
+   
+   
+    
+
+}
+
+
+
+    
+
+
+
+}
